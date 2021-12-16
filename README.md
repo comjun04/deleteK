@@ -2,7 +2,7 @@
 
 <h1>deleteK</h1>
 
-**Chrome extension which deletes crappy K-ultranationalist channels on your youtube.**
+**Chrome extension which deletes K-ultranationalist channels on your youtube.**
 
 </div>
 <br>
