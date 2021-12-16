@@ -10,9 +10,17 @@
 "한국의 '이것'에 전 세계가 경악"<br>
 이거 제거해드립니다
 
+<br>
 
+## Usage
+1. Releases에서 zip파일을 다운로드한 후 압축해제합니다.
+2. 크롬 익스텐션 탭(chrome://extensions)에 들어간 후 '개발자 모드'(Developer mode)를 활성화합니다.
+3. '압축해제된 확장 프로그램을 로드합니다'(Load unpacked) 버튼을 클릭하여 압축해제한 파일 안의 'deleteK'를 선택합니다.
+4. enjoy!
 
-### Blocked Channels
+<br>
+
+## Blocked Channels
 - 꺼리튜브
 - 코리얼리즘
 - Peachy 피치
