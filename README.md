@@ -15,8 +15,9 @@
 4. enjoy!
 
 <br>
+<details>
+  <summary>Blocked Channels</summary>
 
-## Blocked Channels
 - 꺼리튜브
 - 코리얼리즘
 - Peachy 피치
@@ -40,6 +41,7 @@
 - 팩튜브
 - 단골이슈
 
+</details>
 <br>
 <br>
 
