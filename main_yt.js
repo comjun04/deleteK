@@ -19,7 +19,9 @@ const cancerList = [
   "퍼플튜브",
   "쓸모왕",
   "Travel Tube",
-  "페페TV • 조회수1234만회"
+  "페페TV • 조회수1234만회",
+  "팩튜브",
+  "단골이슈"
 ]
 
 document.querySelectorAll('.ytd-channel-name').forEach((el) => {
