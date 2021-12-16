@@ -5,10 +5,6 @@
 **Chrome extension which deletes K-ultranationalist channels on your youtube.**
 
 </div>
-<br>
-
-"한국의 '이것'에 전 세계가 경악"<br>
-이거 제거해드립니다
 
 <br>
 
