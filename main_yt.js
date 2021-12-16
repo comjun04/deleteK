@@ -22,11 +22,9 @@ const cancerList = [
   "페페TV • 조회수1234만회"
 ]
 
-setInterval(() => {
-  document.querySelectorAll('.ytd-channel-name').forEach((el) => {
-      if (el.querySelector('a') !== null && cancerList.indexOf(el.querySelector('a').innerHTML) !== -1) {
-        const pr = el.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode;
-        pr.parentNode.removeChild(pr);
-      }
-  });
-}, 100);
+document.querySelectorAll('.ytd-channel-name').forEach((el) => {
+  if (el.querySelector('a') !== null && cancerList.indexOf(el.querySelector('a').innerHTML) !== -1) {
+    const pr = el.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode;
+    pr.parentNode.removeChild(pr);
+  }
+});
