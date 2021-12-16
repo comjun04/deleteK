@@ -1,6 +1,6 @@
 {
   "name": "deleteK",
-  "description": "Delete crappy K-ultranationalist channels in your youtube",
+  "description": "Delete crappy K-ultranationalist channels on your youtube",
   "version": "1.0",
   "manifest_version": 2,
   "content_scripts": [
