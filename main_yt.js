@@ -21,7 +21,8 @@ const cancerList = [
   "Travel Tube",
   "페페TV • 조회수1234만회",
   "팩튜브",
-  "단골이슈"
+  "단골이슈",
+  "뉴스팩트럼"
 ]
 
 document.querySelectorAll('.ytd-channel-name').forEach((el) => {
